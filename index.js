@@ -27,6 +27,6 @@ function dec(a) {
 }
 
 function preserveDecimal(n) {
-  
+  return parseFloat(n)
 }
 
