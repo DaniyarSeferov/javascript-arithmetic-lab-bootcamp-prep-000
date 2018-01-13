@@ -26,5 +26,7 @@ function dec(a) {
   return a--
 }
 
-
+function preserveDecimal(n) {
+  
+}
 
