@@ -18,6 +18,10 @@ function inc(a) {
   return a++
 }
 
+function makeInt(n) {
+  
+}
+
 function dec(a) {
   return a--
 }
